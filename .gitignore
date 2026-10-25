@@ -1,0 +1,13 @@
+# 日志（运行时生成）
+logs/
+
+# 环境变量（含 API Key，切勿提交）
+.env
+
+# 数据库文件（运行时生成）
+*.db
+
+# Python 缓存
+__pycache__/
+*.pyc
+.pytest_cache/
